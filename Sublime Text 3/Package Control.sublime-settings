@@ -1,0 +1,27 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Ansible",
+		"Git",
+		"Github Tools",
+		"Gitignore",
+		"Package Control",
+		"Python 3",
+		"Python Auto-Complete",
+		"Python Create Package",
+		"Python PEP8 Autoformat",
+		"SaltStack-related syntax highlighting and snippets",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"Theme - Argonaut",
+		"Theme - Glacier",
+		"Theme - Moka",
+		"Themr",
+		"TrailingSpaces"
+	]
+}
